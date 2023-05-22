@@ -1,6 +1,5 @@
 # Intro
-This project is a basic library management system
-It requires mysql connectivity to store data.
+This project is a basic library management system which requires mysql connectivity to store data.
 
 # Mysql
 1) To download installer and setup mysql, [click here](https://dev.mysql.com/downloads/installer/)
